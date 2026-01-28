@@ -1,0 +1,9 @@
+# Compiled Java files
+*.class
+bin/
+
+# VS Code settings
+.vscode/
+
+# OS junk
+.DS_Store
